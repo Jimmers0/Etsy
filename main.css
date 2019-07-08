@@ -295,18 +295,18 @@ width: 100%;
     position: relative;
     font-size: 10px;
     top:-235px;
-    left:-1250px;
+    left:1250px;
 
 }
 
 .orangecircle {
-    width: 5px;
-    height: 5px;
+    width: 8px;
+    height: 8px;
     border-radius: 50%;
     position: relative;
     background-color: darkorange;
-    top: -400px;
-    left:-1200px;
+    top: -418px;
+    left: 1295px;
 }
 
 .nav {
